@@ -1,2 +1,6 @@
 # predictor_de_enfermedades
-ES:
+## ES:
+En este proyecto hemos trabajado en conjunto para establecer un modelo de machine learning capaz de predecir la enfermedad que tiene un paciente en base a sus diferentes síntomas. Para ello, hemos entrenado varios modelos y hemos seleccionado aquél que nos proporciona un accuracy del 100% y, por ende, las métricas restantes (precisión, recall...) al 100% también. Hecho esto, hemos creado un pequeño código el cual pregunta al usuario por sus síntomas y, una vez acumula los suficientes como para poder hacer una predicción precisa, lanza su predicción (siempre acompañada de un aviso de no sustituir la consulta de un profesional real). En un futuro próximo crearemos una aplicación de *Streamlit* que muestre esto
+
+## EN:
+In this project we have worked together to establish a machine learning model capable of predicting the disease that a patient has based on their different symptoms. To do this, we have trained several models and we have selected the one that gives us an accuracy of 100% and, therefore, the remaining metrics (accuracy, recall...) at 100% as well. Once this is done, we have created a small code which asks the user for his symptoms and, once it accumulates enough to be able to make an accurate prediction, it launches its prediction (always accompanied by a warning not to replace the consultation of a real professional). In the near future we will create a *Streamlit* application that will show this
